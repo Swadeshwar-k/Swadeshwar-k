@@ -1,4 +1,4 @@
-# Hi 👋, I'm Swadeshwar K
+# Hi, I'm Swadeshwar K
 
 ### 📊 Aspiring Data Analyst | SQL | Python | Excel | Power BI | Snowflake
 
