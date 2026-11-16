@@ -1,25 +1,105 @@
-<h1 align="center">Hi 👋, I'm Swadeshwar_K</h1>
-<h3 align="center">I have a interest in front-end development, especially working with React. I really enjoy turning UI designs into clean, interactive web experiences.</h3>
+# Hi 👋, I'm Swadeshwar K
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swadeshwar-k&label=Profile%20views&color=0e75b6&style=flat" alt="swadeshwar-k" /> </p>
+### 📊 Aspiring Data Analyst | SQL | Python | Excel | Power BI | Snowflake
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swadeshwar-k" alt="swadeshwar-k" /></a> </p>
+🎓 I'm a **B.E. Electronics and Communication Engineering graduate (2025)** from Sathyabama Institute of Science & Technology, Chennai.
 
-- 👨‍💻 All of my projects are available at [https://swadu-portfolio-swadu11s-projects.vercel.app/](https://swadu-portfolio-swadu11s-projects.vercel.app/)
+💡 I'm passionate about **Data Analytics, Business Intelligence, and Data Visualization**. I enjoy transforming raw data into meaningful insights that support data-driven business decisions.
 
-- 📫 How to reach me **swadeshwarko@gmail.com**
+🔭 Currently working on **SQL, Python, Excel, Power BI, and Snowflake projects**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swadeshwar-k-038558251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swadeshwar-k-038558251/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/swadu11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/swadu11" height="30" width="40" /></a>
-</p>
+🌱 Continuously improving my skills in **Data Cleaning, Exploratory Data Analysis (EDA), Statistics, ETL, and Dashboard Development**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🎯 Career Goal: To start my career as a **Data Analyst or Junior Data Engineer**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swadeshwar-k&show_icons=true&locale=en&layout=compact" alt="swadeshwar-k" /></p>
+📍 Chennai, Tamil Nadu, India
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swadeshwar-k&show_icons=true&locale=en" alt="swadeshwar-k" /></p>
+📫 **Email:** swadeshwar.k@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swadeshwar-k&" alt="swadeshwar-k" /></p>
+🌐 **Portfolio:** [View My Portfolio](https://swadu-portfolio-swadu11s-projects.vercel.app/)
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Query Languages**
+- SQL
+- Python
+- MySQL
+
+**Data Analysis & Visualization**
+- Microsoft Excel (Advanced)
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- DAX (Basics)
+
+**Databases & Cloud Platforms**
+- Snowflake
+- Databricks
+- Azure Data Lake Storage
+- Data Warehousing
+- ETL Fundamentals
+
+**Developer Tools**
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Postman
+
+---
+
+## 📂 Featured Projects
+
+### 🏦 1. Banking Transaction Analytics | SQL & Snowflake
+
+**Domain:** Banking & Financial Services
+
+**Technologies:** SQL, Snowflake, Data Warehousing
+
+Analyzed banking transaction data using SQL to identify transaction patterns, customer behavior, and financial performance.
+
+**Key Features:**
+- Designed and queried a star schema with fact and dimension tables.
+- Developed 20+ SQL queries for business KPIs.
+- Analyzed monthly transaction growth and customer activity.
+- Calculated transaction success and failure rates.
+- Performed branch-wise and payment-mode analysis.
+- Used SQL Joins, CTEs, Window Functions, and Aggregations.
+
+### 🥔 2. IoT-Based Automated Potato Disease Identification
+
+**Technologies:** Python, Streamlit, Machine Learning
+
+- Developed an image-based potato disease classification application.
+- Used CNN-based transfer learning for disease identification.
+- Built an interactive Streamlit application.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL and Query Optimization
+- Python for Data Analytics
+- Power BI and DAX
+- Statistical Analysis
+- Data Engineering Fundamentals
+- Cloud Data Warehousing
+
+---
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:** [Swadeshwar K](https://www.linkedin.com/in/swadeshwar-k-038558251/)
+
+🌐 **Portfolio:** [My Portfolio](https://swadu-portfolio-swadu11s-projects.vercel.app/)
+
+📧 **Email:** swadeshwar.k@gmail.com
+
+---
+
+⭐ *Turning raw data into actionable insights through SQL, Python, and Business Intelligence.*
