@@ -1,5 +1,5 @@
 # Hi, I'm Swadeshwar K
-
+ 
 ### 📊 Aspiring Data Analyst | SQL | Python | Excel | Power BI | Snowflake
 
 🎓 I'm a **B.E. Electronics and Communication Engineering graduate (2025)** from Sathyabama Institute of Science & Technology, Chennai.
